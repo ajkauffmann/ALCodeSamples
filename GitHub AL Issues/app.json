@@ -1,0 +1,22 @@
+{
+  "id": "ce1ebb1c-dd4b-48dd-bd16-c8103d8f745b",
+  "name": "GitHub AL Issues",
+  "publisher": "Arend-Jan Kauffmann",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": {
+    "version": "10.0.0.0",
+    "locale": "US"
+  }
+}
